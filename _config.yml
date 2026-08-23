@@ -2,3 +2,4 @@ theme: minima
 title: "[Banita Tumulu] | Technical Writer"
 description: "Portfolio of API documentation, product guides, and technical content."
 author: "Global Logic"
+markdown: kramdown
